@@ -1,0 +1,18 @@
+/*.Idea-Container {
+  height: 50px;
+  width: 80%;
+  background-color: magenta;
+  margin: 10px auto;
+}*/
+
+.Idea {
+  height: 100px;
+  width: 80%;
+  background-color: magenta;
+  margin: 10px auto;
+}
+
+.Idea-Title {
+  font-size: 20px;
+  font-family: Roboto;
+}
